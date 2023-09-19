@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://greenfilmshooting.net/blog/en/wp-content/uploads/sites/3/2021/09/green_cinema_kl.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
